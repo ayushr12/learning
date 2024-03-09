@@ -5,4 +5,4 @@ This is my learning repository.
 Shraddha khapra
 
 # student
-Ayush Tripathi
+Ayush Tripathi 
